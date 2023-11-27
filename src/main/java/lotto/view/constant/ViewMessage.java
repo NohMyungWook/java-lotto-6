@@ -1,4 +1,4 @@
-package lotto.view;
+package lotto.view.constant;
 
 public enum ViewMessage {
     ASK_PURCHASE_AMOUNT("구입금액을 입력해 주세요."),
